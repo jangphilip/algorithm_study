@@ -1,4 +1,4 @@
-public class notExistNumberSum{
+public class NotExistNumberSum {
     public int solution(int[] inputNumbers){
         int sum = 0;
         for(int i=0; i<inputNumbers.length; i++){

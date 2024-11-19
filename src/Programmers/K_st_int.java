@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class k_st_int {
+public class K_st_int {
     public int[] solution(int[] array, int[][] commands){
         int[] answer = new int[commands.length];
 
